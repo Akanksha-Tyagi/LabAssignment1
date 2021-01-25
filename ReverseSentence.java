@@ -1,4 +1,4 @@
-package Akanksha.labassignment1;
+package akanksha.labassignment1;
 import java.util.Scanner;
 public class ReverseSentence {
 			private static String inputstring;
