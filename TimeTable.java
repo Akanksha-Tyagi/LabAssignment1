@@ -1,4 +1,4 @@
-package Akanksha.labassignment1;
+package akanksha.labassignment1;
 
 public class TimeTable {
 
