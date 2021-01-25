@@ -1,4 +1,4 @@
-package Akanksha.labassignment1;
+package akanksha.labassignment1;
 import java.util.Scanner;
 public class PascalTriangle {
 	public static void main(String[] args) {
